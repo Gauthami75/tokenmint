@@ -1,0 +1,17 @@
+#uploadedImage{
+    width:100%;
+    height: 100%;
+    margin: 5% 0%;
+}
+#nftmint{
+    display: inline-block;
+}
+#userPic{
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+}
+#nftmint input{
+    width:70%;
+    margin: 1%;
+}
